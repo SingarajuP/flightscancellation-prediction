@@ -1,0 +1,8 @@
+#Ignore mac files
+.DS_Store
+#Ignore ipynb checkpoints
+notebooks/.ipynb_checkpoints
+#Ignore dataset 
+data/flights_sample5pct.csv
+data/flights_test.csv
+data/passengers.csv
