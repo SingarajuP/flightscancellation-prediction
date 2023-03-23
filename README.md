@@ -1,9 +1,9 @@
-### flights_delay_cancellation_prediction
+# flights_delay_cancellation_prediction
 This is a mid-term project at Lighthouse Labs.
 
 The data is obtained from Lighthouse Labs.
 
-Aim:
+## Aim:
 
 Regression Problem: The goal is to predict delay of flights.
 Multiclass Classification: If the plane is delayed, predict what type of delay it is (will be).
@@ -17,7 +17,7 @@ domestic_passengers: The passenger totals on different domestic routes from year
 
 The web app has been developed for the cancellation of flights with a probability of cancellation. 
 
-#### Milestones
+## Milestones
 <br>To improve the model for the classification of the flights
 <br>To make a web app for the delay of the flights
 <br>To get weather data to predict the delay and cancellation of the flights
