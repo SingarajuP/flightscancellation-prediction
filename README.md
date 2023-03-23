@@ -1,4 +1,4 @@
-# flights_delay_cancellation_prediction
+### flights_delay_cancellation_prediction
 This is a mid-term project at Lighthouse Labs.
 
 The data is obtained from Lighthouse Labs.
@@ -14,3 +14,10 @@ flights: The departure and arrival information about flights in US in years 2018
 fuel_comsumption: The fuel comsumption of different airlines from years 2015-2019 aggregated per month.
 international_passengers: The passenger totals on different international routes from years 2015-2019 aggregated per month.
 domestic_passengers: The passenger totals on different domestic routes from years 2015-2019 aggregated per month.
+
+The web app has been developed for the cancellation of flights with a probability of cancellation. 
+
+#### Milestones
+<br>To improve the model for the classification of the flights
+<br>To make a web app for the delay of the flights
+<br>To get weather data to predict the delay and cancellation of the flights
