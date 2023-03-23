@@ -2,7 +2,10 @@
 .DS_Store
 #Ignore ipynb checkpoints
 notebooks/.ipynb_checkpoints
+#Ignore src files
+src/__pycache__
 #Ignore dataset 
 data/flights_sample5pct.csv
 data/flights_test.csv
 data/passengers.csv
+data/flights_cancel_sample.csv
