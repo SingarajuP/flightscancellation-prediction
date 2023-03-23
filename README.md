@@ -21,3 +21,27 @@ The web app has been developed for the cancellation of flights with a probabilit
 <br>To improve the model for the classification of the flights
 <br>To make a web app for the delay of the flights
 <br>To get weather data to predict the delay and cancellation of the flights
+## Usage
+Clone repo 
+```bash
+ git clone https://github.com/SingarajuP/flights_delay_cancellation_prediction.git
+```
+<br />Setup a virtual environment
+```bash
+conda create -n yourenvname python=3.10.9
+```
+<br />Activate the virtual environment
+
+```bash
+conda activate yourenvname
+```
+<br />Install all requirements using pip:
+```bash
+pip install -r requirements.txt
+```
+<br />To run web application stay in the main directory and run the command:
+```bash
+streamlit run app.py
+It will open a web page in the browser 
+
+```
