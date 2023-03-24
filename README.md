@@ -1,4 +1,4 @@
-# flights_delay_cancellation_prediction
+# flights cancellation prediction
 This is a mid-term project at Lighthouse Labs.
 
 The data is obtained from Lighthouse Labs.
