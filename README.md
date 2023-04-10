@@ -1,6 +1,9 @@
 # flights cancellation prediction
-This is a mid-term project at Lighthouse Labs.
+<br />The deployed app can be accessed in the link below.
+<br />[Flight cancellation prediction](https://singarajup-flightscancellation-prediction-app-06n6fx.streamlit.app/)
 
+
+This is a mid-term project at Lighthouse Labs.
 The data is obtained from Lighthouse Labs.
 
 ## Aim:
